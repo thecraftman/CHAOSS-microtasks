@@ -30,7 +30,7 @@ Also,JOSS will be helpful with the submission process of the CHAOSS project. Pro
 - Be stored in a repository that can be cloned without registration.
 - Be stored in a repository. 
 - Have an issue tracker that is readable without registration.
-- Permit individuals to create issues/file tickets against your repository.
+- Permit individuals to create issues/file tickets against your repository
 
  ### JOSS also provides the typical submission flow;
  This workflow will be helpful to the CHAOSS D&I Badging project;
