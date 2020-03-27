@@ -6,7 +6,7 @@ March-08-2020 | <Diversity and Inclusion>  (venue)                              
 
 ## Q: How diverse are the attendees ? 
 
-A: The attendees are diverse, they are from different backgrounds, nationalities, groups and states, they are made up of both gender (male and female)
+A: The attendees are diverse, they are from different backgrounds, nationalities, groups and states, they are made up of both gender (male and female
 
 ## Q: Are the attendee demographics of the event measured?
 
