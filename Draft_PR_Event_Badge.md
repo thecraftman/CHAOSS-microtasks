@@ -10,7 +10,7 @@ A: The attendees are diverse, they are from different backgrounds, nationalities
 
 ## Q: Are the attendee demographics of the event measured?
 
-A: Yes, they are measured. 
+A: Yes, they are 
 
 ## Q: If the previous answer is yes, what is the process for measuring attendee demographics?
 
