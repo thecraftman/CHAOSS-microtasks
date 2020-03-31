@@ -9,7 +9,7 @@ A: The Ims standards will play a vital role in improving the D&I badging project
 -  There are new features that that will also be implemented using the IMS standards for the D&I Badging project such as;
     ##### 1. Endorsements  
     ##### 2. Internationalization and multi-Lingual capabilities for the D&I badging project. 
-    ##### 3. versionin
+    ##### 3. versioning
     ##### 4. Improvements on accessibility 
     ##### 5. full adoption of JSON-LD. 
     `JSON-LD (JavaScript Object Notation for Linked Data) is a method of encoding Linked Data using JSON. One goal for JSON-LD was to require as little effort as possible from developers to transform their existing JSON to JSON-LD`. 
